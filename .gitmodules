@@ -4,3 +4,6 @@
 [submodule "src/panda_moveit_config"]
 	path = src/panda_moveit_config
 	url = git@github.com:COMP0129-UCL/panda_moveit_config.git
+[submodule "src/realsense_gazebo_plugin"]
+	path = src/realsense_gazebo_plugin
+	url = git@github.com:RPL-CS-UCL/realsense_gazebo_plugin.git
