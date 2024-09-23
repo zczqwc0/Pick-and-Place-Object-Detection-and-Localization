@@ -1,0 +1,5 @@
+Linked: (/home/bruce/catkin_ws/devel/.private/obj_rec_tutorial/lib/libobj_rec_tutorial_lib.so, /home/bruce/catkin_ws/devel/lib/libobj_rec_tutorial_lib.so)
+Linked: (/home/bruce/catkin_ws/devel/.private/obj_rec_tutorial/lib/obj_rec_tutorial/correspondence_grouping, /home/bruce/catkin_ws/devel/lib/obj_rec_tutorial/correspondence_grouping)
+Linked: (/home/bruce/catkin_ws/devel/.private/obj_rec_tutorial/lib/pkgconfig/obj_rec_tutorial.pc, /home/bruce/catkin_ws/devel/lib/pkgconfig/obj_rec_tutorial.pc)
+Linked: (/home/bruce/catkin_ws/devel/.private/obj_rec_tutorial/share/obj_rec_tutorial/cmake/obj_rec_tutorialConfig-version.cmake, /home/bruce/catkin_ws/devel/share/obj_rec_tutorial/cmake/obj_rec_tutorialConfig-version.cmake)
+Linked: (/home/bruce/catkin_ws/devel/.private/obj_rec_tutorial/share/obj_rec_tutorial/cmake/obj_rec_tutorialConfig.cmake, /home/bruce/catkin_ws/devel/share/obj_rec_tutorial/cmake/obj_rec_tutorialConfig.cmake)

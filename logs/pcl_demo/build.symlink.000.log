@@ -1,0 +1,5 @@
+Symlinking /home/bruce/catkin_ws/devel/lib/libpcl_demo_lib.so
+Symlinking /home/bruce/catkin_ws/devel/lib/pkgconfig/pcl_demo.pc
+Symlinking /home/bruce/catkin_ws/devel/lib/pcl_demo/pcl_demo_node
+Symlinking /home/bruce/catkin_ws/devel/share/pcl_demo/cmake/pcl_demoConfig.cmake
+Symlinking /home/bruce/catkin_ws/devel/share/pcl_demo/cmake/pcl_demoConfig-version.cmake

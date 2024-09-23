@@ -1,0 +1,21 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "catkin: build",
+			"type": "shell",
+			"command": "catkin build",
+			"args": [],
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
+			"problemMatcher": [
+				"$catkin-gcc"
+			],
+			"options": {
+				"cwd": "/home/bruce/catkin_ws"
+			}
+		}
+	]
+}

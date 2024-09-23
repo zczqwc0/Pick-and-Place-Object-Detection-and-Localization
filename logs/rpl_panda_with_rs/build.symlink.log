@@ -1,0 +1,5 @@
+Symlinking /home/bruce/catkin_ws/devel/lib/librpl_panda_with_rs.so
+Symlinking /home/bruce/catkin_ws/devel/lib/rpl_panda_with_rs/pcl_node
+Symlinking /home/bruce/catkin_ws/devel/lib/pkgconfig/rpl_panda_with_rs.pc
+Symlinking /home/bruce/catkin_ws/devel/share/rpl_panda_with_rs/cmake/rpl_panda_with_rsConfig.cmake
+Symlinking /home/bruce/catkin_ws/devel/share/rpl_panda_with_rs/cmake/rpl_panda_with_rsConfig-version.cmake

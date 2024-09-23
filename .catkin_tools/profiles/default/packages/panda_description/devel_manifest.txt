@@ -1,0 +1,5 @@
+panda_description
+/home/bruce/catkin_ws/devel/.private/panda_description/cmake.lock /home/bruce/catkin_ws/devel/./cmake.lock
+/home/bruce/catkin_ws/devel/.private/panda_description/lib/pkgconfig/panda_description.pc /home/bruce/catkin_ws/devel/lib/pkgconfig/panda_description.pc
+/home/bruce/catkin_ws/devel/.private/panda_description/share/panda_description/cmake/panda_descriptionConfig-version.cmake /home/bruce/catkin_ws/devel/share/panda_description/cmake/panda_descriptionConfig-version.cmake
+/home/bruce/catkin_ws/devel/.private/panda_description/share/panda_description/cmake/panda_descriptionConfig.cmake /home/bruce/catkin_ws/devel/share/panda_description/cmake/panda_descriptionConfig.cmake
