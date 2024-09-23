@@ -1,0 +1,3 @@
+[submodule "src/panda_description"]
+	path = src/panda_description
+	url = git@github.com:COMP0129-UCL/panda_description.git
