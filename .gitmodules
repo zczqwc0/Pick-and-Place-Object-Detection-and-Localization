@@ -1,3 +1,6 @@
 [submodule "src/panda_description"]
 	path = src/panda_description
 	url = git@github.com:COMP0129-UCL/panda_description.git
+[submodule "src/panda_moveit_config"]
+	path = src/panda_moveit_config
+	url = git@github.com:COMP0129-UCL/panda_moveit_config.git
