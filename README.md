@@ -16,22 +16,20 @@ sudo apt update
 sudo apt install ros-noetic-desktop-full
 ```
 
-### Clone the Repository
+### 3. Clone the Repository
 Clone this repository along with its submodules:
 
 ```bash
 git clone --recurse-submodules git@github.com:zczqwc0/Pick-and-Place-Object-Detection-and-Localization.git
 ```
 
-### Clone the Repository 4. Submodules
-
 This repository contains the following submodules:
--panda_description: Robot description for the Panda robot.
--panda_moveit_config: MoveIt! configuration for the Panda robot.
--realsense_gazebo_plugin: Plugin for integrating RealSense cameras in Gazebo.
--rpl_panda_with_rs: Custom implementation for the Panda robot with RealSense support.
+- panda_description: Robot description for the Panda robot.
+- panda_moveit_config: MoveIt! configuration for the Panda robot.
+- realsense_gazebo_plugin: Plugin for integrating RealSense cameras in Gazebo.
+- rpl_panda_with_rs: Custom implementation for the Panda robot with RealSense support.
 
-### Build the Project
+### 4. Build the Project
 
 ```bash
 cd Pick-and-Place-Object-Detection-and-Localization
@@ -39,7 +37,7 @@ catkin build
 ```
 
 
-### 6. Run the Project
+### 5. Run the Project
 Follow the instructions provided in the COMP0129-S23_CW3.pdf for executing the project and performing pick-and-place tasks.
 
 The project was launched from run_solution.launch.
@@ -60,8 +58,8 @@ rosservice call /task 3
 ```
 
 ## Additional Notes
--Ensure that all dependencies are installed as specified in the submodules.
--Make sure to source your ROS workspace before running the project:
+- Ensure that all dependencies are installed as specified in the submodules.
+- Make sure to source your ROS workspace before running the project:
 ```bash
 source devel/setup.bash
 ```
