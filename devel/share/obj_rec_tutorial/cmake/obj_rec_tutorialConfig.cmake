@@ -1,0 +1,1 @@
+/home/bruce/catkin_ws/devel/.private/obj_rec_tutorial/share/obj_rec_tutorial/cmake/obj_rec_tutorialConfig.cmake

@@ -1,0 +1,1 @@
+/home/bruce/catkin_ws/devel/.private/cw3_world_spawner/share/gennodejs/ros/cw3_world_spawner/srv/TaskSetup.js

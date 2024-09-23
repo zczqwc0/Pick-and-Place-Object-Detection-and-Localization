@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC     -shared -Wl,-soname,libpcl_demo_lib.so -o /home/bruce/catkin_ws/devel/.private/pcl_demo/lib/libpcl_demo_lib.so CMakeFiles/pcl_demo_lib.dir/src/pcl_demo.cpp.o 

@@ -1,0 +1,1 @@
+/home/bruce/catkin_ws/devel/.private/cw3_world_spawner/share/cw3_world_spawner/cmake/cw3_world_spawner-msg-extras.cmake

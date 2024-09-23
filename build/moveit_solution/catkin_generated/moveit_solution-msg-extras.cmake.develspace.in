@@ -1,0 +1,2 @@
+set(moveit_solution_MESSAGE_FILES "")
+set(moveit_solution_SERVICE_FILES "/home/bruce/catkin_ws/src/labs/moveit_solution/srv/set_arm.srv;/home/bruce/catkin_ws/src/labs/moveit_solution/srv/set_gripper.srv;/home/bruce/catkin_ws/src/labs/moveit_solution/srv/add_collision.srv;/home/bruce/catkin_ws/src/labs/moveit_solution/srv/remove_collision.srv;/home/bruce/catkin_ws/src/labs/moveit_solution/srv/pick.srv")

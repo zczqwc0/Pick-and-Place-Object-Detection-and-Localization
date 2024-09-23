@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC     -shared -Wl,-soname,libcw3_team_14_cw3_class_lib.so -o /home/bruce/catkin_ws/devel/.private/cw3_team_14/lib/libcw3_team_14_cw3_class_lib.so CMakeFiles/cw3_team_14_cw3_class_lib.dir/src/cw3_class.cpp.o 

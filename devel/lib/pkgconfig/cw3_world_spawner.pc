@@ -1,0 +1,1 @@
+/home/bruce/catkin_ws/devel/.private/cw3_world_spawner/lib/pkgconfig/cw3_world_spawner.pc

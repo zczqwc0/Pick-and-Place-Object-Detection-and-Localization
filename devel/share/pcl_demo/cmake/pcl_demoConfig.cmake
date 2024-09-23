@@ -1,0 +1,1 @@
+/home/bruce/catkin_ws/devel/.private/pcl_demo/share/pcl_demo/cmake/pcl_demoConfig.cmake

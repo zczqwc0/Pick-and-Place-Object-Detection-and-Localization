@@ -1,0 +1,1 @@
+/home/bruce/catkin_ws/devel/.private/moveit_solution/share/roseus/ros/moveit_solution/manifest.l

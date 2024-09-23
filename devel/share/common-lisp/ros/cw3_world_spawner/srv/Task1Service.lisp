@@ -1,0 +1,1 @@
+/home/bruce/catkin_ws/devel/.private/cw3_world_spawner/share/common-lisp/ros/cw3_world_spawner/srv/Task1Service.lisp

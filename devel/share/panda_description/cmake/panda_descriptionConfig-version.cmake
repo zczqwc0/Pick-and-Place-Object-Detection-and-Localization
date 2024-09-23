@@ -1,0 +1,1 @@
+/home/bruce/catkin_ws/devel/.private/panda_description/share/panda_description/cmake/panda_descriptionConfig-version.cmake

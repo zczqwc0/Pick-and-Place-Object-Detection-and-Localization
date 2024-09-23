@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/bruce/catkin_ws/devel/.private/moveit_solution/setup.sh

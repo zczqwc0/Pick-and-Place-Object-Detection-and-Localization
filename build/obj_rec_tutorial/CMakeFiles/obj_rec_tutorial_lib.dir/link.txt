@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -std=c++14     -shared -Wl,-soname,libobj_rec_tutorial_lib.so -o /home/bruce/catkin_ws/devel/.private/obj_rec_tutorial/lib/libobj_rec_tutorial_lib.so CMakeFiles/obj_rec_tutorial_lib.dir/src/obj_rec_tutorial.cpp.o 

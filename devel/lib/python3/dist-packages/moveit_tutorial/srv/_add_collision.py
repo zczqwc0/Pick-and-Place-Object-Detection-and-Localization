@@ -1,0 +1,1 @@
+/home/bruce/catkin_ws/devel/.private/moveit_tutorial/lib/python3/dist-packages/moveit_tutorial/srv/_add_collision.py

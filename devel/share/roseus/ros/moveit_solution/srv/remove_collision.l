@@ -1,0 +1,1 @@
+/home/bruce/catkin_ws/devel/.private/moveit_solution/share/roseus/ros/moveit_solution/srv/remove_collision.l

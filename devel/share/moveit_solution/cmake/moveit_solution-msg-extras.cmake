@@ -1,0 +1,1 @@
+/home/bruce/catkin_ws/devel/.private/moveit_solution/share/moveit_solution/cmake/moveit_solution-msg-extras.cmake

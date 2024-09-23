@@ -1,0 +1,1 @@
+/home/bruce/catkin_ws/devel/.private/moveit_tutorial/share/moveit_tutorial/cmake/moveit_tutorialConfig.cmake

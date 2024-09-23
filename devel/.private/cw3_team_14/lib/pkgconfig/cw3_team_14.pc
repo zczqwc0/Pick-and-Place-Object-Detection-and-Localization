@@ -1,0 +1,8 @@
+prefix=/home/bruce/catkin_ws/devel/.private/cw3_team_14
+
+Name: cw3_team_14
+Description: Description of cw3_team_14
+Version: 0.0.0
+Cflags: -I/home/bruce/catkin_ws/devel/.private/cw3_team_14/include -I/home/bruce/catkin_ws/src/cw3_team_14/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime cw3_world_spawner

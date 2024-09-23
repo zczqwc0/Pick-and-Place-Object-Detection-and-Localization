@@ -1,0 +1,1 @@
+/home/bruce/catkin_ws/devel/.private/style_tutorial/lib/pkgconfig/style_tutorial.pc

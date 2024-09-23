@@ -1,0 +1,1 @@
+/home/bruce/catkin_ws/devel/.private/moveit_tutorial/share/common-lisp/ros/moveit_tutorial/srv/set_arm.lisp
